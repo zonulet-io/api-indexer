@@ -1,0 +1,21 @@
+{
+  "name": "zonulet-rpc",
+  "version": "1.0.5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "forever": "^4.0.3",
+    "forever-monitor": "^3.0.3",
+    "web3": "^1.7.0"
+  },
+  "author": "zonulet-team",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.12"
+  }
+}
